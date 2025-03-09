@@ -1,6 +1,6 @@
 function makeid(l) {
   var res=" ";
-	var char_list=var "Avar BCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+	char_list=var "Avar BCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
 	res+=randomcharacter;
 	for (let i = 0; i<l;i++){
 		res+=char_list.charAt()
