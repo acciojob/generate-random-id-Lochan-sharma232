@@ -9,11 +9,10 @@ function makeid(l) {
 	)
 )
 	}
-		return res;
+
+		return res.trim();
 	}
 	// write your code here
-
-
 // Do not change the code below.
 const l = prompt("Enter a number.");
 alert(makeid(l));
