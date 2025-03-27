@@ -1,12 +1,14 @@
 function makeid(l) {
   var res=" ";
-	char_list=var "Avar BCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+	char_list=var "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
 	res+=randomcharacter;
 	for (let i = 0; i<l;i++){
 		res+=char_list.charAt()
-			Math.floor{
+			Math.floor(
 			Math.random().char_list.length;
-		}
+	)
+		)
+	}
 		return res;
 	}
 	// write your code here
