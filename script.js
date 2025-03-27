@@ -3,10 +3,11 @@ function makeid(l) {
 	var char_list="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
 	res+=randomcharacter;
 	for (var i = 0; i<l;i++){
-		res+=char_list.charAt()
+		res+=char_list.charAt(
 			Math.floor(
 			Math.random()+char_list.length;
 	)
+			)
 	}
 		return res;
 	}
